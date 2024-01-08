@@ -4,7 +4,8 @@
    looking forward to become an IOT engineer.
    How to reach me email me ikireziimmaculee@gmail.com.
 
-   Oh ! i like to challenge myself,got some challenge?feel free to reach me out !
+   Oh ! i like to challenge myself,got some challenges in coding?
+   feel free to reach me out !
 
 <!---
 LumiWary/LumiWary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
